@@ -1,1 +1,1 @@
-window.print(hello)
+window.print(helloworld)
