@@ -1,0 +1,54 @@
+*{
+    padding: 0px;margin: 0px;
+}
+.parent{
+    background-color: aqua;width: 1500px;height: 1000px;
+}
+/*
+.head{
+    background-color: tomato;width:1000px; height: 100px;
+}
+
+    
+.logo{
+    color: white;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 50px;font-weight: 100px;
+    position: absolute;top: 0px;left: 0px;
+    transition:transform 6s ease-in-out; animation: king 5s ; 
+}
+@keyframes king{
+    0%{
+        color: violet; transform: skewX(45deg) translateX(500px);
+    }
+    25%{
+        color: tomato;transform: skewX(-45deg);
+    }
+    
+}
+.content{
+    background-color: lightgray;width: 1000px;height: 1000px;
+}
+.menu{
+    width: 800px;height: 50px;background-color: white;display: inline-block;
+}
+.scroll{
+    width:100px;height:1000px;background-color: sienna;display: inline;right: 1000px;
+}
+h4{
+    text-align: center;font-family: sans-serif;font-weight: bolder;font-style: oblique;
+}
+.a{
+    width: 200px;height: 50px;color:white;background-color:rgb(49, 224, 125);display: inline-block;border-radius: 2cm;border-right:seagreen;border-width: 10px;
+}
+.b{
+    width: 200px;height: 50px;color:white;background-color:rgb(49, 224, 125);display: inline-block;border-width: 10px;border-right: seagreen;border-radius: 2cm;
+}
+.c{
+    width: 200px;height: 50px;color:white;background-color:rgb(49, 224, 125);display: inline-block;border-radius: 2cm;border-right: seagreen;border-width: 10px;
+}
+.d{
+    width: 200px;height: 50px;color:white;background-color:rgb(49, 224, 125);display: inline-block;border-radius: 2cm;border-right: seagreen;border-width: 10px;
+}*/
+.second{
+    right: 1000px;top: 0px;
+    display: inline-block;width: 500px;height: 1000px;background-color: brown;
+}
